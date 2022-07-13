@@ -9,5 +9,5 @@ draft: false
 
 Hello, welcome to my website. 
 
-This is going to be a place where I share food and travel journals.
+This is going to be a place where I share food and travel journals. 
 
