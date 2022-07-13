@@ -15,4 +15,3 @@ This is going to be a place where I share food and travel journals.
 > 
 > Lao Tzu
 
-{{% tweet 1397620473832382465 %}}
