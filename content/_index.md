@@ -11,4 +11,8 @@ Hello, welcome to my website.
 
 This is going to be a place where I share food and travel journals. 
 
-{{ < tweet 1397620473832382465 >}}
+> A journey of a thousand miles begins with a single step
+> 
+> Lao Tzu
+
+{{% tweet 1397620473832382465 %}}
